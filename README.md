@@ -33,3 +33,36 @@ Horizontal_Distance_To_Fire_Points / quantitative / meters / Horz Dist to neares
 Wilderness_Area (4 binary columns) / qualitative / 0 (absence) or 1 (presence) / Wilderness area designation 
 Soil_Type (40 binary columns) / qualitative / 0 (absence) or 1 (presence) / Soil Type designation 
 Cover_Type (7 types) / integer / 1 to 7 / Forest Cover Type designation
+
+Source:
+
+Original Owners of Database: 
+
+Remote Sensing and GIS Program 
+Department of Forest Sciences 
+College of Natural Resources 
+Colorado State University 
+Fort Collins, CO 80523 
+(contact Jock A. Blackard, jblackard '@' fs.fed.us or Dr. Denis J. Dean, denis.dean '@' utdallas.edu) 
+
+Donors of database: 
+
+1. Jock A. Blackard (jblackard '@' fs.fed.us) 
+GIS Coordinator 
+USFS - Forest Inventory & Analysis 
+Rocky Mountain Research Station 
+507 25th Street 
+Ogden, UT 84401 
+
+2. Dr. Denis J. Dean (denis.dean '@' utdallas.edu) 
+Professor 
+Program in Geography and Geospatial Sciences 
+School of Economic, Political and Policy Sciences 
+800 West Campbell Rd 
+Richardson, TX 75080-3021 
+
+3. Dr. Charles W. Anderson (anderson '@' cs.colostate.edu) 
+Associate Professor 
+Department of Computer Science 
+Colorado State University 
+Fort Collins, CO 80523 USA
